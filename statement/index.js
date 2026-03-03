@@ -7,6 +7,7 @@ if (num > 0) {
 
 
 //if else statement
+let age = 22;
 if (age >= 18) {
   console.log("Adult");
 } else {
@@ -28,7 +29,6 @@ else if (marks >= 50) {
 else {
   console.log("Fail");
 }
-
 
 //switch statement
 let day = 2;
